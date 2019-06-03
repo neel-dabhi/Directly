@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/neelkanthjdabhi/App-Digger">
+  <a href="https://github.com/neelkanthjdabhi/Directly">
     <img src="https://raw.githubusercontent.com/neelkanthjdabhi/Directly/master/directly_icon.png" width=53 height=80>
   </a>
 
