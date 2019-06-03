@@ -1,0 +1,12 @@
+<resources>
+
+    <!--genaral spacing-->
+    <dimen name="spacing_medium">5dp</dimen>
+    <dimen name="spacing_large">15dp</dimen>
+    <dimen name="spacing_xxlarge">50dp</dimen>
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+
+</resources>
