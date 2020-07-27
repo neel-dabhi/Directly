@@ -9,9 +9,11 @@
     Shortcuts for everything.
     <br>
     <br>
-    <a href="https://drive.google.com/file/d/1Itw0QlZT1AExWhq5bNNWZi8BNapSS7-B/view?usp=sharing">Download APK</a>
+    <a href="https://play.google.com/store/apps/details?id=com.neelkanth.directly">
+    <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge-border.png" width=221.5px height=84px>
+  </a>
   <br>
-   <a href="https://youtu.be/MQSTtCXYOpU">Youtube Demo</a>
+ 
   </p>
 </p>
 
